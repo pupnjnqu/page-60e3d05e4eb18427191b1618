@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "65f9e447f39ca0c95513dd6f",
+  "owner": "pupnjnqu",
+  "repo": "page-60e3d05e4eb18427191b1618",
+  "title": "扶摇云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "60e3d05e4eb18427191b1618",
+      "a": "扶摇云",
+      "b": "",
+      "entity": "扶摇云",
+      "brand": "扶摇云",
+      "separator": "",
+      "path": "index.html",
+      "hash": "5cfc055392c57878896930a05bb75943e8b4aa09a8bb6bd945c98bf9c196af66",
+      "content": {
+        "keyword1": "扶摇云",
+        "keyword2": "",
+        "primary_entity": "扶摇云",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "扶摇云相信网络不该是墙，而该是风。我们用实在的套餐、靠谱的线路，陪你逛更远的网页、看更清的画面、做更顺的事。",
+          "AI_DESCRIPTION": "扶摇云相信网络不该是墙，而该是风。我们用实在的套餐、靠谱的线路，陪你逛更远的网页、看更清的画面、做更顺的事。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n*, *::before, *::after {box-sizing: border-box;margin: 0;padding: 0}\n:root {--bg: #f4f4f6;--surface: #ffffff;--ink: #1a1a22;--muted: #6b6b78;--accent: #7a3cff;--accent-soft: #efe8ff;--line: #1a1a22}\nhtml {-webkit-text-size-adjust: 100%}\nbody {background: var(--bg);color: var(--ink);font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", \"PingFang SC\", \"Hiragino Sans GB\", \"Microsoft YaHei\", sans-serif;line-height: 1.6;display: flex;min-height: 100vh}\naside.nav {position: fixed;top: 0;left: 0;width: 200px;height: 100vh;background: var(--surface);border-right: 2px solid var(--line);padding: 28px 22px;display: flex;flex-direction: column;gap: 22px;z-index: 20}\n.brand-mark {font-size: 20px;font-weight: 800;letter-spacing: -0.5px}\n.brand-mark span {color: var(--accent)}\n.nav-list {list-style: none;display: flex;flex-direction: column;gap: 14px;margin-top: 8px}\n.nav-list a {color: var(--ink);text-decoration: none;font-size: 15px;padding: 6px 10px;border: 2px solid transparent;transition: border-color 0.15s, background 0.15s;display: inline-block}\n.nav-list a:hover {border-color: var(--line);background: var(--accent-soft)}\n.nav-foot {margin-top: auto;font-size: 12px;color: var(--muted)}\nmain {margin-left: 200px;flex: 1;padding: 0;width: calc(100% - 200px)}\nsection {padding: 80px 56px}\n.hero {min-height: 100vh;background: var(--bg);display: flex;align-items: center;justify-content: center;padding: 80px 56px;position: relative;overflow: hidden}\n.hero-inner {text-align: center;max-width: 100%}\n.hero h1 {font-size: clamp(80px, 22vw, 320px);font-weight: 900;letter-spacing: -0.04em;line-height: 0.85;color: var(--ink);word-break: keep-all}\n.hero h1 .dot {color: var(--accent)}\n.hero-sub {margin-top: 28px;font-size: clamp(15px, 1.6vw, 22px);color: var(--muted);max-width: 640px;margin-left: auto;margin-right: auto}\n.hero-meta {margin-top: 36px;display: flex;gap: 14px;justify-content: center;flex-wrap: wrap}\n.hero-meta span {border: 2px solid var(--line);background: var(--surface);padding: 8px 16px;font-size: 14px;font-weight: 600}\nh2 {font-size: clamp(28px, 4vw, 44px);font-weight: 800;letter-spacing: -0.02em;margin-bottom: 16px;line-height: 1.1}\nh3 {font-size: 22px;font-weight: 700;margin-bottom: 12px}\np {margin-bottom: 14px;font-size: 16px}\n.lead {font-size: 18px;color: var(--muted);max-width: 680px}\n.card {border: 2px solid var(--line);background: var(--surface);padding: 28px;margin-bottom: 20px}\n.card-num {font-size: 14px;color: var(--accent);font-weight: 700;margin-bottom: 8px}\n.plans-stack {display: flex;flex-direction: column;gap: 22px;max-width: 760px}\n.plan {border: 2px solid var(--line);background: var(--surface);padding: 34px;position: relative}\n.plan.featured {background: var(--accent-soft);border-width: 3px}\n.plan-tag {position: absolute;top: -14px;left: 24px;background: var(--accent);color: #fff;padding: 5px 14px;font-size: 13px;font-weight: 700;border: 2px solid var(--line)}\n.plan-head {display: flex;justify-content: space-between;align-items: flex-start;flex-wrap: wrap;gap: 12px;margin-bottom: 18px}\n.plan-name {font-size: 26px;font-weight: 800}\n.plan-price {font-size: 28px;font-weight: 800}\n.plan-price small {display: block;font-size: 14px;font-weight: 500;color: var(--muted)}\n.plan-features {list-style: none;display: flex;flex-direction: column;gap: 10px}\n.plan-features li {padding-left: 24px;position: relative;font-size: 15px}\n.plan-features li::before {content: \"+\";position: absolute;left: 0;color: var(--accent);font-weight: 800}\n.faq-list {max-width: 760px;display: flex;flex-direction: column;gap: 14px}\ndetails {border: 2px solid var(--line);background: var(--surface);padding: 20px 24px}\nsummary {cursor: pointer;font-weight: 700;font-size: 17px;list-style: none;position: relative;padding-right: 30px}\nsummary::-webkit-details-marker {display: none}\nsummary::after {content: \"+\";position: absolute;right: 0;top: 0;font-size: 22px;color: var(--accent)}\ndetails[open] summary::after {content: \"-\"}\ndetails p {margin-top: 14px;color: var(--muted)}\n.clients-grid {display: grid;grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));gap: 18px}\n.client-card {border: 2px solid var(--line);background: var(--surface);padding: 24px}\n.client-card h3 {margin-bottom: 6px}\n.client-card p {font-size: 14px;color: var(--muted);margin-bottom: 10px}\n.client-card .tag {display: inline-block;font-size: 12px;border: 1.5px solid var(--line);padding: 3px 10px;font-weight: 600}\n.usage-list {list-style: none;display: grid;grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));gap: 18px;margin-top: 28px}\n.usage-list li {border: 2px solid var(--line);background: var(--surface);padding: 24px}\n.usage-list .step {font-size: 36px;font-weight: 900;color: var(--accent);line-height: 1}\nfooter {border-top: 2px solid var(--line);background: var(--surface);padding: 40px 56px;font-size: 14px;color: var(--muted)}\nfooter strong {color: var(--ink)}\n@media (max-width: 860px) {\n  aside.nav {position: relative;width: 100%;height: auto;border-right: none;border-bottom: 2px solid var(--line);flex-direction: row;flex-wrap: wrap;align-items: center;gap: 12px;padding: 16px 20px}\n  .nav-list {flex-direction: row;flex-wrap: wrap;margin-top: 0;gap: 8px}\n  .nav-list a {font-size: 14px;padding: 4px 8px}\n  .nav-foot {margin-top: 0;margin-left: auto}\n  main {margin-left: 0;width: 100%}\n  section {padding: 56px 22px}\n  .hero {padding: 56px 22px;min-height: 70vh}\n  .plan {padding: 24px}\n  details {padding: 16px 18px}\n  footer {padding: 28px 22px}\n}\n</style><aside class=\"nav\">\n  <div class=\"brand-mark\">扶摇<span>云</span></div>\n  <ul class=\"nav-list\">\n    <li><a href=\"#about\">认识我们</a></li>\n    <li><a href=\"#plans\">套餐价格</a></li>\n    <li><a href=\"#usage\">怎么用</a></li>\n    <li><a href=\"#clients\">客户端</a></li>\n    <li><a href=\"#faq\">常见问题</a></li>\n  </ul>\n  <div class=\"nav-foot\">想聊就聊，我们都在。</div>\n</aside>\n<main>\n  <section class=\"hero\">\n    <div class=\"hero-inner\">\n      <h1>扶摇<span class=\"dot\">云</span></h1>\n      <p class=\"hero-sub\">嘿，很高兴遇见你。我们做的事其实很简单：把网络这条风道理顺，让你飞得更高、更稳、更自在。</p>\n      <div class=\"hero-meta\">\n        <span>每月 100GB 起</span>\n        <span>多设备同时在线</span>\n        <span>年付更省心</span>\n      </div>\n    </div>\n  </section>\n\n  <section id=\"about\">\n    <h2>我们相信网络该是风，不是墙</h2>\n    <p class=\"lead\">扶摇云不是那种冷冰冰的技术堆叠。我们更像是你身边那个懂行的朋友：替你把线路挑好、把节点测稳，然后告诉你“放心用吧”。</p>\n    <div class=\"card\">\n      <div class=\"card-num\">关于我们</div>\n      <p>我们相信，好的网络服务不该让人焦虑。所以从套餐设计到客户端，我们都尽量说人话、做实事。没有花里胡哨的噱头，只有你能实实在在感受到的速度和稳定性。</p>\n      <p>不管你是想追番、打游戏、做直播，还是团队远程办公，扶摇云都想做那个让你少操心、多享受的伙伴。有什么问题随时找我们，我们不是那种只会回模板的客服。</p>\n    </div>\n  </section>\n\n  <section id=\"plans\">\n    <h2>挑一个顺手的套餐</h2>\n    <p class=\"lead\">三个档位，都是我们用心搭配的。先看看哪个合你心意，不用纠结，随时能调整。</p>\n    <div class=\"plans-stack\">\n      <article class=\"plan\">\n        <div class=\"plan-head\">\n          <div class=\"plan-name\">基础版</div>\n          <div class=\"plan-price\">¥15<small>每月 / 年付 ¥150</small></div>\n        </div>\n        <ul class=\"plan-features\">\n          <li>每月 100GB 极速流量，日常追剧刷网页够用</li>\n          <li>支持 3 台设备同时在线，手机电脑都能挂</li>\n          <li>解锁基础流媒体，想看的节目基本都能播</li>\n          <li>普通线路节点池，覆盖主流地区</li>\n        </ul>\n      </article>\n\n      <article class=\"plan featured\">\n        <div class=\"plan-tag\">朋友推荐</div>\n        <div class=\"plan-head\">\n          <div class=\"plan-name\">旗舰版</div>\n          <div class=\"plan-price\">¥35<small>每月 / 年付 ¥350</small></div>\n        </div>\n        <ul class=\"plan-features\">\n          <li>每月 300GB 极速流量，重度使用也扛得住</li>\n          <li>支持 5 台设备同时在线，全家都能连</li>\n          <li>全节点原生流媒体解锁，4K 画面不卡顿</li>\n          <li>IPLC 专线游戏加速优化，延迟更低更跟手</li>\n          <li>7x24 优先工单支持，问题先帮你解决</li>\n        </ul>\n      </article>\n\n      <article class=\"plan\">\n        <div class=\"plan-head\">\n          <div class=\"plan-name\">团队版</div>\n          <div class=\"plan-price\">¥85<small>每月 / 年付 ¥850</small></div>\n        </div>\n        <ul class=\"plan-features\">\n          <li>每月 1000GB 极速流量，团队协作无压力</li>\n          <li>支持 20 台设备同时在线，人多人少都灵活</li>\n          <li>VIP 专属高带宽节点，高峰期也不挤</li>\n          <li>支持企业定制路由，按业务需求调配</li>\n          <li>专属客户经理服务，一个对接口搞定</li>\n        </ul>\n      </article>\n    </div>\n  </section>\n\n  <section id=\"usage\">\n    <h2>用起来其实很简单</h2>\n    <p class=\"lead\">别担心技术门槛，跟着下面几步走，几分钟就能连上。</p>\n    <ol class=\"usage-list\">\n      <li><div class=\"step\">01</div><h3>挑个套餐</h3><p>看看上面的三个档位，选一个最贴合你日常用量的。不确定的话，先从基础版试也不亏。</p></li>\n      <li><div class=\"step\">02</div><h3>下载客户端</h3><p>到你设备对应的应用商店或官方渠道下载扶摇云客户端，装上就行，和普通 App 没区别。</p></li>\n      <li><div class=\"step\">03</div><h3>登录账号</h3><p>用你注册时的账号密码登录，套餐信息会自动同步过来，不用手动填什么参数。</p></li>\n      <li><div class=\"step\">04</div><h3>选个节点</h3><p>在节点列表里挑一个离你近或者目标地区对应的，点一下就连上了，剩下的事交给我们。</p></li>\n    </ol>\n  </section>\n\n  <section id=\"clients\">\n    <h2>客户端在哪下？</h2>\n    <p class=\"lead\">我们尽量覆盖大家常用的平台。具体下载地址请以官方渠道为准，这里先给你一个总览。</p>\n    <div class=\"clients-grid\">\n      <div class=\"client-card\">\n        <h3>Windows</h3>\n        <p>桌面端主力，支持 Win10 及以上系统。</p>\n        <span class=\"tag\">桌面端</span>\n      </div>\n      <div class=\"client-card\">\n        <h3>macOS</h3>\n        <p>苹果电脑原生体验，支持 Intel 与 Apple Silicon。</p>\n        <span class=\"tag\">桌面端</span>\n      </div>\n      <div class=\"client-card\">\n        <h3>iOS</h3>\n        <p>iPhone、iPad 都能用，App Store 可搜。</p>\n        <span class=\"tag\">移动端</span>\n      </div>\n      <div class=\"client-card\">\n        <h3>Android</h3>\n        <p>安卓手机和平板，主流版本都兼容。</p>\n        <span class=\"tag\">移动端</span>\n      </div>\n    </div>\n  </section>\n\n  <section id=\"faq\">\n    <h2>有些话你可能想问</h2>\n    <p class=\"lead\">我们把大家常问的整理在这里了。如果没答到你心里的疑问，直接找我们聊就好。</p>\n    <div class=\"faq-list\">\n      <details>\n        <summary>套餐之间能随时升降级吗？</summary>\n        <p>当然可以。你觉得现在的流量不够用或者用不完，随时在后台切换套餐，差额按比例补或者退，不会让你吃亏。</p>\n      </details>\n      <details>\n        <summary>你们说的“极速流量”到底有多快？</summary>\n        <p>速度和你的本地网络、所选节点、目标网站都有关系。我们承诺的是不限速、不人工降速，线路带宽给足。大多数用户日常追番、视频通话都能跑满本地带宽。</p>\n      </details>\n      <details>\n        <summary>如果用着不满意，能退款吗？</summary>\n        <p>具体退款政策以购买时的条款为准。我们希望大家是真心觉得好用才留下，有问题先找客服聊聊，我们会尽力帮你把体验调顺。</p>\n      </details>\n      <details>\n        <summary>一个人用的话选哪个套餐合适？</summary>\n        <p>如果你主要是手机刷刷网页、看看视频，基础版就够。如果你家里好几台设备都要连，或者爱打外服游戏，旗舰版会更舒服。团队版是给多人协作场景准备的。</p>\n      </details>\n      <details>\n        <summary>设备数量超了怎么办？</summary>\n        <p>超出的设备会自动挤下线。你可以关掉不用的设备再连，或者升级到支持更多设备的套餐，很灵活。</p>\n      </details>\n      <details>\n        <summary>客服真的能找到人吗？</summary>\n        <p>能的。旗舰版和团队版有优先工单支持，响应会更快。基础版也能通过工单联系到我们，可能稍等一会儿。我们不是机器人客服，是真人回。</p>\n      </details>\n    </div>\n  </section>\n\n  <footer>\n    <p><strong>扶摇云</strong> · 愿每一次连接都让你觉得踏实。</p>\n    <p>本页面内容仅供参考，具体服务条款以官方为准。有问题随时找我们聊聊。</p>\n  </footer>\n</main>",
+          "hash": "24893ef84aa149169f01c9c7852fc1e82d196d36f11e3df1af27b62bd8802abd",
+          "seo": {
+            "title": "扶摇云 | 和你一起飞得更高更稳的网络伙伴",
+            "keywords": "扶摇云,网络加速,流媒体解锁,专线加速,云服务,团队网络方案",
+            "description": "扶摇云相信网络不该是墙，而该是风。我们用实在的套餐、靠谱的线路，陪你逛更远的网页、看更清的画面、做更顺的事。"
+          },
+          "provider": "grok",
+          "model": "glm-5.3",
+          "design": {
+            "no": "793",
+            "hero": "2 超大字号品牌名铺满首屏的海报式",
+            "palette": "4 浅灰配电光紫",
+            "nav": "2 左侧竖排目录",
+            "card": "2 粗描边直角",
+            "plans_view": "4 单列大卡依次堆叠",
+            "faq_view": "4 details 折叠",
+            "tone": "2 亲切的朋友式口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "junyin11.cn",
+    "host": "p-16440bf2fb.junyin11.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "4a7164686abbc4c9e115b8e9ee7d6a16dd0c2173a3b9c7567e32c59af0c3a2c3",
+    "sitemap.xml": "f64f92852091f0df32fa76deac7ac8dfe8b91e9ea7eb1bb37c95ac4a53234067",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "7cd34824385132651820c601ccdc135e922822d81636b16a4cd97a4ae021cd3f",
+    "robots.txt": "0893ee9a9780095e091d3ba21d1ae787c7d926aca394e3809886cd40ed4eea5f",
+    "9073ed360847716335856b4e3f35db35.txt": "9a48ee01fef16afcf586a4083e150f35874793eccee6962d1cc75c66fa423164"
+  },
+  "revision": "613163a4e0c2e0f1c3507aa0fc2a8bb1e33fa1ce17322739d9d43d9cc4ca6621"
+}
